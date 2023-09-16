@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 body {
-  heigth: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 2rem 1rem;
+	heigth: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 2rem 1rem;
 }
